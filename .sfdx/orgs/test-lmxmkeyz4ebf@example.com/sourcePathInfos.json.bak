@@ -1,0 +1,92 @@
+[
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556901309926,
+            "changeTime": 1556901309926,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556901309926,
+            "changeTime": 1556901309926,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556901309927,
+            "changeTime": 1556901309927,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556901309926,
+            "changeTime": 1556901309926,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556901471645,
+            "changeTime": 1556901471645,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556901407085,
+            "changeTime": 1556901407085,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
