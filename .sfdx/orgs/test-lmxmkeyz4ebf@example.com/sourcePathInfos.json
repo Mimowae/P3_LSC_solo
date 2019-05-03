@@ -1,0 +1,324 @@
+[
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556901309926,
+            "changeTime": 1556901309926,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556901309926,
+            "changeTime": 1556901309926,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525154,
+            "changeTime": 1556903525154,
+            "contentHash": "ceb8794726dcd10a8d4f0e7d274189302b2dfe71"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556901309926,
+            "changeTime": 1556901309926,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556901471645,
+            "changeTime": 1556901471645,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo",
+        {
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556901407085,
+            "changeTime": 1556901407085,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\Reimbursement_Request__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\Reimbursement_Request__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2198,
+            "modifiedTime": 1556903525108,
+            "changeTime": 1556903525108,
+            "contentHash": "b00d83bb354517de84e370ec94a3de3c39f4aea0"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 424,
+            "modifiedTime": 1556903525113,
+            "changeTime": 1556903525113,
+            "contentHash": "75901377b86981441ee6baa6887c0eeca0210bf1"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields\\Currency__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields\\Currency__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1678,
+            "modifiedTime": 1556903525117,
+            "changeTime": 1556903525117,
+            "contentHash": "2658f8b10f73a2cb5358e03700a1a5bfd513a4a1"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1017,
+            "modifiedTime": 1556903525123,
+            "changeTime": 1556903525123,
+            "contentHash": "28f0d5718a62f624e66a04e9135ebfc8ddf655c2"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1556903525127,
+            "changeTime": 1556903525127,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\layouts\\Reimbursement_Request__c-Reimbursement Request Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\layouts\\Reimbursement_Request__c-Reimbursement Request Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2455,
+            "modifiedTime": 1556903525140,
+            "changeTime": 1556903525140,
+            "contentHash": "9465bd51d369971296ca461a6cb0fdcef5a8d22f"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\tabs\\Reimbursement_Request__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\tabs\\Reimbursement_Request__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1556903525144,
+            "changeTime": 1556903525144,
+            "contentHash": "f43d4f8115097cc690713545eed65df62f2a11b8"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19366,
+            "modifiedTime": 1556903525162,
+            "changeTime": 1556903525162,
+            "contentHash": "32996529709b79c6ac45bc9eb78d6f3e8b42853e"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4873,
+            "modifiedTime": 1556903525170,
+            "changeTime": 1556903525170,
+            "contentHash": "bff71a6f9d8341ad93ee791d88516f94fc89da11"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4873,
+            "modifiedTime": 1556903525178,
+            "changeTime": 1556903525178,
+            "contentHash": "bff71a6f9d8341ad93ee791d88516f94fc89da11"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5211,
+            "modifiedTime": 1556903525184,
+            "changeTime": 1556903525184,
+            "contentHash": "4b293200d598ea134dccc5fbafaff5cb5769ba6a"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525127,
+            "changeTime": 1556903525127,
+            "contentHash": "4e8ff3ad85d960bfbaa2289d9d1551ad04d4af88"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525105,
+            "changeTime": 1556903525105,
+            "contentHash": "de6e4473caada6853808f3201ec517d3b1192e82"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525123,
+            "changeTime": 1556903525123,
+            "contentHash": "f99d4474359dca511aca9de00c8847991ff5b9d5"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\objects\\Reimbursement_Request__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525127,
+            "changeTime": 1556903525127,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525140,
+            "changeTime": 1556903525140,
+            "contentHash": "91d948db919e99bb08f8e9f12cec03a9dc0b7654"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525144,
+            "changeTime": 1556903525144,
+            "contentHash": "921529850d049b61d48edd00969ad757165e592d"
+        }
+    ],
+    [
+        "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mimow\\Documents\\Projects\\P3_LSC_solo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556903525184,
+            "changeTime": 1556903525184,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
